@@ -34,7 +34,7 @@ To run this project, ensure you have:
 4. Set your OpenAI API key in the apikey.py file:
     ```bash
     openai_key = "your_openai_api_key"
-##Usage
+## Usage
 Run the application:
 
     streamlit run main.py
